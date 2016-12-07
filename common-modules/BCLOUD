@@ -1,0 +1,1 @@
+BUILD_SUBMITTER  -x -u . -c "alias mvn='mvn -U' && cd app/ecom/unbiz-common/common-utils/common-modules && sh -ex build.sh" -m app/ecom/unbiz-common/common-utils/common-modules

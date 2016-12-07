@@ -1,0 +1,4 @@
+##com.baidu.unbiz.dynamic.proxy.impl.JdkProxyCreator
+com.baidu.unbiz.dynamic.proxy.impl.ASMCreator
+##com.baidu.unbiz.dynamic.proxy.impl.CglibCreator
+##com.baidu.unbiz.dynamic.proxy.impl.JavassistCreator

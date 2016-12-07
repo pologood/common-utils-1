@@ -1,0 +1,12 @@
+#@trimming on
+
+${for: #aaa.*, ccc}
+
+#aaa
+  #d
+  #end
+  #c
+  #end
+  #b
+  #end
+#end
